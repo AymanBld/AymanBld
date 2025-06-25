@@ -1,4 +1,7 @@
-# 💫 About Me
+<h1 align="center">Hey there 🖐️ I'am Ayman</h1>
+
+<img src="IMG_20250625_204715.jpg">
+
 🔭 I’m currently working on Gharib mobile app<br>
 👯 I’m looking to collaborate on Flutter projects<br>
 🌱 I’m currently learning AI basics  <br>
@@ -28,7 +31,7 @@
 # 🌐 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/ayman-blidi-a07a75341/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="https://discordapp.com/users/"><img src="https://skillicons.dev/icons?i=discord" height="40"></a>
+<!--   <a href="https://discordapp.com/users/"><img src="https://skillicons.dev/icons?i=discord" height="40"></a> -->
   <a href="https://instagram.com/blidi_ayman_"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
-  <a href="mailto:blidiayman47@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+  <a href="mailto:a_blidi@estin.dz"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
 </p>
