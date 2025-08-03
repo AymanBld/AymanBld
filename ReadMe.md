@@ -3,8 +3,8 @@
 <img src="IMG_20250625_204715.jpg">
 
 🔭 I’m currently working on Gharib mobile app<br>
-🌱 I’m looking to collaborate on Flutter projects<br>
-🤝 I’m looking for help breaking into AI and machine learning <br>
+🤝 I’m looking to collaborate on Flutter projects<br>
+🌱 I’m looking for help breaking into AI and machine learning <br>
 💬 Ask me about Flutter development, Backend, or Django<br><br>
 
 
